@@ -6,7 +6,7 @@ in a way that each row represented a date from respective months and each column
 for the day. For statistical analysis we chose to look into the variance in the average temperature of the water for different dates across the years. 
 For visualization we chose regression plots and faceted boxplots. Our baseline model was Lasso Regression Model and the model of our choice was GradientBoost Regressor model.
 
-##Conclusion:
+## Conclusion:
 Overall, our findings showed that our hypothesis was supported. Additionally, many of our models performed well in training and testing scores but it was the mean 
 squared errors that help differentiate each model from each other. If we worked on this project further, we would have liked to create predictive models to predict 
 temperature’s variance by utilising covariance/standard error rather than average temperatures. Additionally, it would have been fruitful to explore other algorithms 
